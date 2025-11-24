@@ -1,0 +1,50 @@
+*{
+font-family: Century;
+}
+
+header{
+justify-content: space-around 10px;
+}
+
+.obrazy1{
+display: inline-block;
+}
+
+header,footer{
+background-color: #CCA10B;
+color: white;
+text-decoration: wavy;
+margin: 5px;
+text-align: center;
+}
+
+aside{
+background-color: rgba(5, 160, 88, 80);
+}
+
+.prawy{
+font-family: "LucidaConsole", "Consolas", "Courier New", "monospace";
+width: 30%;
+height: 600px;
+margin-top: 20px;
+font-size: 14px;
+letter-spacing: 1px;
+}
+
+.lewy{
+float: left;
+width: 70%;
+height: 620px;
+}
+
+.obrazy2{
+height: 100px;
+width: 100px;
+margin: 10px;
+padding-left: 30px;
+}
+
+.p{
+font-size: 32px;
+text-shadow: 2px 2px 4px black transparent=60%;
+}

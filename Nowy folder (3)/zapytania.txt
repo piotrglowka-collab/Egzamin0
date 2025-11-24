@@ -1,0 +1,2 @@
+Select imie, nazwisko, klasa from uczniowie where klasa = "2B";
+
